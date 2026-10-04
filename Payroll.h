@@ -1,3 +1,8 @@
+/*
+ * Mã sinh viên: 202418984
+ * Họ tên: Ngô Ngọc Thái
+ * Bài thực hành: Lab03-04 - Nhóm dự án và nhân sự
+ */
 #ifndef PAYROLL_H
 #define PAYROLL_H
 
