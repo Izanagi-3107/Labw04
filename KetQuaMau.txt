@@ -1,0 +1,65 @@
+BANG LUONG - 2026-09
+----------------------------------------
+Ma nhan su: E001
+Ho ten: Nguyễn Minh An
+Phong ban: Đào tạo
+Loai nhan su: SalariedEmployee
+Luong thang: 15000000.00
+Phu cap trach nhiem: 2000000.00
+Thuong: 1000000.00
+Thu nhap: 18000000.00
+----------------------------------------
+Ma nhan su: E002
+Ho ten: Trần Thu Bình
+Phong ban: Hỗ trợ
+Loai nhan su: HourlyEmployee
+Don gia gio: 100000.00
+So gio lam: 150.00
+Gio thuong: 150.00
+Gio lam them: 0.00
+Tien gio thuong: 15000000.00
+Tien lam them: 0.00
+Thuong: 500000.00
+Thu nhap: 15500000.00
+----------------------------------------
+Ma nhan su: E003
+Ho ten: Lê Hoàng Chi
+Phong ban: Hỗ trợ
+Loai nhan su: HourlyEmployee
+Don gia gio: 100000.00
+So gio lam: 170.00
+Gio thuong: 160.00
+Gio lam them: 10.00
+Tien gio thuong: 16000000.00
+Tien lam them: 1500000.00
+Thuong: 0.00
+Thu nhap: 17500000.00
+----------------------------------------
+Ma nhan su: E004
+Ho ten: Phạm Quốc Dũng
+Phong ban: Kinh doanh
+Loai nhan su: SalesEmployee
+Luong co ban: 8000000.00
+Doanh so: 200000000.00
+Ty le hoa hong: 5.00%
+Tien hoa hong: 10000000.00
+Thuong: 1000000.00
+Thu nhap: 19000000.00
+----------------------------------------
+Tong bang luong: 70000000.00
+Tong phong Ho tro: 33000000.00
+Nhan su co thu nhap cao nhat: E004 - Phạm Quốc Dũng - 19000000.00
+
+KET QUA TIM NHAN SU E002
+Ma nhan su: E002
+Ho ten: Trần Thu Bình
+Phong ban: Hỗ trợ
+Loai nhan su: HourlyEmployee
+Don gia gio: 100000.00
+So gio lam: 150.00
+Gio thuong: 150.00
+Gio lam them: 0.00
+Tien gio thuong: 15000000.00
+Tien lam them: 0.00
+Thuong: 500000.00
+Thu nhap: 15500000.00

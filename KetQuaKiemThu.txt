@@ -1,0 +1,44 @@
+[PASS] 1. E001 co thu nhap 18000000
+[PASS] 2. E002 co thu nhap 15500000
+[PASS] 3. E003 co thu nhap 17500000
+[PASS] 4. E004 co thu nhap 19000000
+[PASS] 5. Tong bang luong bang 70000000
+[PASS] 6. Tong phong Ho tro bang 33000000
+[PASS] 7. Nguoi co thu nhap cao nhat la E004
+[PASS] 8. Tim nhan su qua bang luong thuong va const
+[PASS] 9. Khong tim thay nhan su tra ve nullptr
+[PASS] 10. Phong ban khong ton tai co tong luong 0
+[PASS] 11. Constructor rut gon SalariedEmployee dung gia tri mac dinh
+[PASS] 12. Constructor rut gon HourlyEmployee dung gia tri mac dinh
+[PASS] 13. Constructor rut gon SalesEmployee dung gia tri mac dinh
+[PASS] 14. Ba phien ban addBonus cong don dung
+[PASS] 15. Dat lai thuong ve 0
+[PASS] 16. 0 gio lam co thu nhap 0
+[PASS] 17. 160 gio chua co tien lam them
+[PASS] 18. 160.5 gio tinh dung phan lam them
+[PASS] 19. 250 gio la bien tren hop le
+[PASS] 20. Tu choi gio lam am hoac vuot 250
+[PASS] 21. Tu choi ma ho ten va phong ban rong
+[PASS] 22. Tu choi thong tin chi co khoang trang
+[PASS] 23. Tu choi luong phu cap don gia va doanh so am
+[PASS] 24. Hoa hong 0 va 0.3 deu hop le
+[PASS] 25. Tu choi hoa hong ngoai khoang tu 0 den 0.3
+[PASS] 26. Tu choi thuong bang 0 hoac am
+[PASS] 27. Tu choi ly do thuong rong
+[PASS] 28. Ty le thuong 0.5 la hop le
+[PASS] 29. Tu choi ty le thuong ngoai khoang (0, 0.5]
+[PASS] 30. Tu choi so tien tham chieu khong duong
+[PASS] 31. Thuong theo ty le phai co ly do
+[PASS] 32. Thuong khong doi sau cac thao tac khong hop le
+[PASS] 33. Cap nhat doanh so lam thay doi thu nhap
+[PASS] 34. Cap nhat doanh so am bi tu choi va giu gia tri cu
+[PASS] 35. Tu choi NaN va vo cuc trong du lieu so
+[PASS] 36. Khong them trung ma giua cac loai nhan su
+[PASS] 37. Khong them con tro rong
+[PASS] 38. Bang luong rong duoc xu ly hop ly
+[PASS] 39. Dong hang thu nhap chon nhan su them truoc
+[PASS] 40. Tong hop luon dung thuong hien tai va loi goi da hinh
+[PASS] 41. Ky luong khong duoc rong
+[PASS] 42. Cong thuong tran so bi tu choi va giu gia tri cu
+
+Ket qua: 42/42 PASS
